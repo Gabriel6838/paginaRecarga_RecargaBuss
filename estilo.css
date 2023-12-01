@@ -128,7 +128,7 @@ form {
     width: 350px;
     border-radius: 0.5rem;
     justify-content: center;
-    box-shadow: 0 0 10px #d5f7e6;
+    box-shadow: 0 0 10px var(--cor-secundaria);
 }
 
 .botao-modal{
