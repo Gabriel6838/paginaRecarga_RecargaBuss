@@ -23,7 +23,7 @@ function pagarNoPix(){
     var qrcode = document.querySelector(".modal");
     valorDaRecarga = prompt('Por favor, insira o valor da recarga EX: 15,00');
     
-    if(valorDaRecarga.value === ""){
+    if(valorDaRecarga === ""){
         return;
     }
     else{
