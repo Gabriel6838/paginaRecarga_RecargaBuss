@@ -186,4 +186,8 @@ form {
   .imagemqr{
     width: 70%;
   }
+
+  .modal-content{
+    width: 300px;
+  }
 }
