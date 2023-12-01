@@ -140,7 +140,7 @@ form {
     line-height: 24px;
 }
 .botao-modal:hover{
-    background-color: #5ae4a8;
+    background-color: var(--cor-secundaria);
 
 }
 
